@@ -1,6 +1,8 @@
 const router = require('express').Router();
 const { Category, Product } = require('../../models');
 
+// The `/api/categories` endpoint
+
 router.get('/', (req, res) => {
   Category.findAll({
     attributes: [
@@ -49,7 +51,7 @@ router.get('/:id', (req, res) => {
   }).then(data => {
 
     if (!data) {
-      res.status(404).json({ message: 'No categoriy found with this' });
+      res.status(404).json({ message: 'No category found with this ID!' });
       return;
     }
     res.json(data);
@@ -79,7 +81,7 @@ router.put('/:id', (req, res) => {
   }).then(data => {
 
     if (!data[0]) {
-      res.status(404).json({ message: 'No category found with this id' });
+      res.status(404).json({ message: 'No category found with this ID!' });
       return;
     }
     res.json(data);
@@ -98,7 +100,7 @@ router.delete('/:id', (req, res) => {
   }).then(data => {
 
     if (!data) {
-      res.status(404).json({ message: 'No category found with this id' });
+      res.status(404).json({ message: 'No category found with this ID!' });
       return;
     }
     res.json(data);
