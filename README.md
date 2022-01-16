@@ -1,37 +1,43 @@
 
-  # c13-orm-ecommerce
-  [![License](https://img.shields.io/badge/License-Apache_2.0-green.svg)](https://opensource.org/licenses/apache-2.0/)
-  [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/mit/)
+# c13-orm-ecommerce  
+[![License](https://img.shields.io/badge/License-Apache_2.0-green.svg)](https://opensource.org/licenses/apache-2.0/)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/mit/)
 
-  ## Description  
-  ...
+## Description
+...
 
-  [Deployed App]()
+### Application Features
+-
 
-  ## Table of Contents 
-  * [description](#description)
-  * [installation](#installation)
-  * [usage](#usage)
-  * [questions](#questions)
-  * [license](#license)
-  
-  ## Installation
-  ...
+[Deployed App](?/c13-orm-ecommerce)
 
-  ## Usage 
-  ...
+## Table of Contents 
+- [c13-orm-ecommerce](#c13-orm-ecommerce)
+  - [Description](#description)
+    - [Application Features](#application-features)
+  - [Table of Contents](#table-of-contents)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Questions](#questions)
+  - [License](#license)
 
-  [Video Demonstration]()
+## Installation
+...
 
-  <img src=".">
+## Usage 
+...
 
-  ## Questions
-  To check out more of my projects, visit my [GitHub](https://github.com/seifenan) page.
-  To reach me with more questions email me at seifenan@gmail.com. 
+[Video Demonstration]()
 
-  [GitHub Repo](https://github.com/Seifenan/c13-orm-ecommerce)
+<img src=".">
 
-  ## License
-  [![License](https://img.shields.io/badge/License-Apache_2.0-green.svg)](https://opensource.org/licenses/apache-2.0/)
-  
-  [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/mit/)
+## Questions
+To check out more of my projects, visit my [GitHub](https://github.com/seifenan) page.
+To reach me with more questions email me at seifenan@gmail.com. 
+
+[GitHub Repo](https://github.com/Seifenan/c13-orm-ecommerce)
+
+## License
+[![License](https://img.shields.io/badge/License-Apache_2.0-green.svg)](https://opensource.org/licenses/apache-2.0/)
+
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/mit/)
